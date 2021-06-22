@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I have the ability to conduct *research* in _software engineering_ and __Natural Language Processing__. _I also **can** teach many courses.
+
